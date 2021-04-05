@@ -1,2 +1,2 @@
 # Calc-Demo
-Calc Demo for F#
+Calc Demo for F# and OCaml
